@@ -1,6 +1,6 @@
 {
   "name": "pdfmake-chinese-sub-sup",
-  "version": "0.2",
+  "version": "0.1.39",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
   "directories": {
